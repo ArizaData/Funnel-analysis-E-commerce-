@@ -15,12 +15,17 @@ Insights and recommendations are provided on key areas:
 * **User Signup Cohort Analysis:** Analysis of users grouped by signup period to assess how purchase conversion rates and monetization vary across cohorts, helping identify differences in user quality and long-term value over time.
 
 
-  # Dataset Overview
-  
+# Dataset Overview
+The Data the analysis was performed on consist of three tables: events, orders, users, which can be seen below:
+
+<img width="722" height="466" alt="Screenshot 2026-01-07 165650" src="https://github.com/user-attachments/assets/6e5cd51d-61d1-49df-8eb3-750f7a822473" />
+
+
+
 # Executive Summary
 ### Overview of findings
 
-Our e-commerce funnel shows strong overall health with a 33% purchase user conversion, though there are areas that could be improved to help the business. Nearly 70% of users progressed from view to cart, but cart-to-purchase conversion was only 47%, indicating an opportunity to optimize checkout experience. Total revenue generated exceeded $2 million, with an AOV of $729, showing high contribution per user. Notably, 18% of purchasers were repeat buyers, contributing approximately 32% of total revenue, suggesting retention strategies could be further leveraged. The following sections will explore additional contributing factors and highlight key opportunity areas for improvement.
+Our e-commerce funnel shows strong overall health with a 33% purchase user conversion, though there are areas that can be improved upon to help the business. Nearly 70% of users progressed from view to cart, but cart-to-purchase conversion was only 47%, indicating an opportunity to optimize checkout experience. Total revenue generated exceeded $2 million, with an AOV of $729, showing high contribution per user. Notably, 18% of purchasers were repeat buyers, contributing approximately 32% of total revenue, suggesting retention strategies could be further leveraged. The following sections will explore additional contributing factors and highlight key opportunity areas for improvement.
 
 
 ### User Funnel Performance:
@@ -31,33 +36,33 @@ Our e-commerce funnel shows strong overall health with a 33% purchase user conve
 
 * Conversion drops most sharply at checkout, where only 47% of carted users completed a purchase (3,320 of 6,994), identifying checkout as the primary source of revenue leakage in the funnel.
 
-  ### Revenue Contribution:
+### Revenue Contribution:
   
 * From 2024 through the end of 2025, nearly $2.5M in total revenue was generated from 3,320 purchasing users, indicating strong revenue generation relative to the size of the purchasing user base.
 
 * Average order value (AOV) was $728.83, showing that purchases tend to be high-value rather than driven by low-cost, high-frequency transactions.
 
-  ### Repeat Purchase Impact:
+### Repeat Purchase Impact:
 
 * 18% of purchasing users (612 out of 3,320) made multiple purchases, indicating a segment of loyal customers within the user base.
 
 * Repeat purchasers contributed approximately 32% of total revenue ($775K), highlighting their disproportionate contribution to overall sales.
 
-  ### User Sign up cohort analysis:
+### User Sign up cohort analysis:
 
 * Purchase Conversion rates remain consistent across cohorts, with purchase rates ranging from 30% to 36%, indicating stable funnel performance regardless of signup date.
 
 * Total revenue per cohort varies modestly from $85K to $138K, while average order value (AOV) per cohort ranges from $504 to $710, showing users generate predictable revenue irrespective of signup month.
 
-  ### Recommendations:
+### Recommendations:
 
-  Based on the insights, the foloowing recommendations have been provided:
+Based on the insights, the foloowing recommendations have been provided:
 
-  * With only 47% of users converting from cart to purchase, the checkout stage shows the largest revenue leakage. **Simplifying  the checkout process and implementing abandoned cart reminders or limited-time incentives could increase conversions and overall revenue.**
+* With only 47% of users converting from cart to purchase, the checkout stage shows the largest revenue leakage. **Simplifying  the checkout process and implementing abandoned cart reminders or limited-time incentives could increase conversions and overall revenue.**
 
-  * Repeat buyers are only 18% of purchasers but contribute around 32% of revenue, highlighting high retention value. **Implementing loyalty programs or rewards, leveraging personalized product recommendations, and offering targeted promotions for replenishable items can strengthen engagement and long-term loyalty,** further increasing recurring revenue.
+* Repeat buyers are only 18% of purchasers but contribute around 32% of revenue, highlighting high retention value. **Implementing loyalty programs or rewards, leveraging personalized product recommendations, and offering targeted promotions for replenishable items can strengthen engagement and long-term loyalty,** further increasing recurring revenue.
  
-  * Consistent purchase rates indicate strong funnel efficiency, but the total user base of 10,000 suggests low traffic with high growth potential. **Run targeted onboarding campaigns for new users, implement welcome offers, and track time-to-first purchase** to accelerate early-stage engagement and maximize acquisition value.
+* Consistent purchase rates indicate strong funnel efficiency, but the total user base of 10,000 suggests low traffic with high growth potential. **Run targeted onboarding campaigns for new users, implement welcome offers, and track time-to-first purchase** to accelerate early-stage engagement and maximize acquisition value.
 
 
 ### Caveats and assumptions:
