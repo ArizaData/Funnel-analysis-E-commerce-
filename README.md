@@ -36,7 +36,7 @@ Our e-commerce funnel shows strong overall health with a 33% purchase user conve
 
 * Conversion drops most sharply at checkout, where only 47% of carted users completed a purchase (3,320 of 6,994), identifying checkout as the primary source of revenue leakage in the funnel.
 
-<img width="934" height="411" alt="Screenshot 2026-01-07 204830" src="https://github.com/user-attachments/assets/85f1136e-e0a8-4f7d-9999-2b9ba5653578" />
+<img width="560" height="247" alt="Screenshot 2026-01-07 204830" src="https://github.com/user-attachments/assets/85f1136e-e0a8-4f7d-9999-2b9ba5653578" />
 
 
 ### Revenue Contribution:
