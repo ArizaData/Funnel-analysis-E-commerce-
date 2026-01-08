@@ -20,6 +20,7 @@ All SQL queries used for analysis can be found [here.](SQL/)
 
 # Dataset Overview
 The Data the analysis was performed on consist of three tables: events, orders, users, which can be seen below:
+click:
 <details>
   <summary>Dataset Tables ERD</summary>
   <img src="https://github.com/user-attachments/assets/6e5cd51d-61d1-49df-8eb3-750f7a822473" width="500" alt="Dataset Tables ERD" />
@@ -30,8 +31,9 @@ The Data the analysis was performed on consist of three tables: events, orders, 
 
 Our e-commerce funnel shows strong overall health with a 33% purchase user conversion, though there are areas that can be improved upon to help the business. Nearly 70% of users progressed from view to cart, but cart-to-purchase conversion was only 47%, indicating an opportunity to optimize checkout experience. Total revenue generated exceeded $2 million, with an AOV of $729, showing high contribution per user. Notably, 18% of purchasers were repeat buyers, contributing approximately 32% of total revenue, suggesting retention strategies could be further leveraged. The following sections will explore additional contributing factors and highlight key opportunity areas for improvement.
 
-<img width="1169" height="657" alt="Funnel Analysis Dashboard" src="https://github.com/user-attachments/assets/82caef5a-dcf7-4f18-892e-35bff8c30495" />
+Below is Overview of Power BI dashboard along with more detailed findings.
 
+<img width="1169" height="657" alt="Funnel Analysis Dashboard" src="https://github.com/user-attachments/assets/82caef5a-dcf7-4f18-892e-35bff8c30495" />
 
 ### User Funnel Performance:
 
@@ -43,7 +45,6 @@ Our e-commerce funnel shows strong overall health with a 33% purchase user conve
 
 
 <img width="560" height="247" alt="Screenshot 2026-01-07 204830" src="https://github.com/user-attachments/assets/85f1136e-e0a8-4f7d-9999-2b9ba5653578" />
-
 
 ### Revenue Contribution:
   
@@ -57,7 +58,6 @@ Our e-commerce funnel shows strong overall health with a 33% purchase user conve
 
 * Repeat purchasers contributed approximately 32% of total revenue ($775K), highlighting their disproportionate contribution to overall sales.
 
-
 <img width="510" height="247" alt="Screenshot 2026-01-07 205255" src="https://github.com/user-attachments/assets/f1af6a40-0ee1-4603-9eda-d9a7650b348b" />
 
 
@@ -69,7 +69,6 @@ Our e-commerce funnel shows strong overall health with a 33% purchase user conve
 
 <img width="1861" height="265" alt="Screenshot 2026-01-07 205759" src="https://github.com/user-attachments/assets/e2d3e416-856c-415b-a36f-be18faeabb22" />
 
-
 ### Recommendations:
 
 Based on the insights, the foloowing recommendations have been provided:
@@ -80,10 +79,9 @@ Based on the insights, the foloowing recommendations have been provided:
  
 * Consistent purchase rates indicate strong funnel efficiency, but the total user base of 10,000 suggests low traffic with high growth potential. **Run targeted onboarding campaigns for new users, implement welcome offers, and track time-to-first purchase** to accelerate early-stage engagement and maximize acquisition value.
 
-
 ### Caveats and assumptions:
 
-* The dataset includes only users who signed up, so it does not account for guest or anonymous traffic, potentially underestimating overall funnel activity and conversion potential
+* The dataset includes only users who signed up, so it does not account for guest or anonymous traffic, potentially underestimating overall funnel activity and conversion potential.
 
 * Event data tracks interactions per product, but not all user journeys are fully captured; some products may only show a single event type (view, cart, or purchase), limiting full funnel sequence analysis.
   
