@@ -12,16 +12,16 @@ Insights and recommendations are provided on key areas:
 
 * **Repeat Purchaser Impact:** Assessment of user repeat purchase rates, measuring their contribution to overall revenue to highlight retention-driven growth opportunities.
 
-* **User Signup Cohort Analysis:** Analysis of users grouped by signup period to assess how purchase conversion rates and monetization vary across cohorts, helping identify differences in user quality and long-term value over time.
+* **User Signup Cohort Analysis:** Analysis of users grouped by signup period(by month) to assess how purchase conversion rates and monetization vary across cohorts, helping identify differences in user quality and long-term value over time.
 
 Power BI dashboard can be downloaded [here](E-commerce%20Funnel%20Analysis%20Dashboard.pbix)
 
 All SQL queries used for analysis can be found [here.](SQL/)
 
 # Dataset Overview
-The Data the analysis was performed on consist of three tables: events, orders, users, which can be seen below:
+The Data the analysis was performed on consist of three tables: events, orders, users, which can be seen below.
 
-click:
+Click:
 <details>
   <summary>Dataset Tables ERD</summary>
   <img src="https://github.com/user-attachments/assets/6e5cd51d-61d1-49df-8eb3-750f7a822473" width="500" alt="Dataset Tables ERD" />
@@ -32,7 +32,7 @@ click:
 
 Our e-commerce funnel shows strong overall health with a 33% purchase user conversion, though there are areas that can be improved upon to help the business. Nearly 70% of users progressed from view to cart, but cart-to-purchase conversion was only 47%, indicating an opportunity to optimize checkout experience. Total revenue generated exceeded $2 million, with an AOV of $729, showing high contribution per user. Notably, 18% of purchasers were repeat buyers, contributing approximately 32% of total revenue, suggesting retention strategies could be further leveraged. The following sections will explore additional contributing factors and highlight key opportunity areas for improvement.
 
-Below is Overview of Power BI dashboard along with more detailed findings/recommendations.
+Below is a overview of Power BI dashboard:
 
 <img width="1169" height="657" alt="Funnel Analysis Dashboard" src="https://github.com/user-attachments/assets/82caef5a-dcf7-4f18-892e-35bff8c30495" />
 
@@ -61,7 +61,6 @@ Below is Overview of Power BI dashboard along with more detailed findings/recomm
 
 <img width="510" height="247" alt="Screenshot 2026-01-07 205255" src="https://github.com/user-attachments/assets/f1af6a40-0ee1-4603-9eda-d9a7650b348b" />
 
-
 ### User Sign up cohort analysis:
 
 * Purchase Conversion rates remain consistent across cohorts, with purchase rates ranging from 30% to 36%, indicating stable funnel performance regardless of signup date.
@@ -72,9 +71,9 @@ Below is Overview of Power BI dashboard along with more detailed findings/recomm
 
 ### Recommendations:
 
-Based on the insights, the foloowing recommendations have been provided:
+Based on the insights, the following recommendations have been provided:
 
-* With only 47% of users converting from cart to purchase, the checkout stage shows the largest revenue leakage. **Simplifying  the checkout process and implementing abandoned cart reminders or limited-time incentives could increase conversions and overall revenue.**
+* With only 47% of users converting from cart to purchase, the checkout stage shows the largest revenue leakage. **Simplifying the checkout process and implementing abandoned cart reminders or limited-time incentives could increase conversions and overall revenue.**
 
 * Repeat buyers are only 18% of purchasers but contribute around 32% of revenue, highlighting high retention value. **Implementing loyalty programs or rewards, leveraging personalized product recommendations, and offering targeted promotions for replenishable items can strengthen engagement and long-term loyalty,** further increasing recurring revenue.
  
