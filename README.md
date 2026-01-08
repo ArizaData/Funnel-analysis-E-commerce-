@@ -20,6 +20,7 @@ All SQL queries used for analysis can be found [here.](SQL/)
 
 # Dataset Overview
 The Data the analysis was performed on consist of three tables: events, orders, users, which can be seen below:
+
 click:
 <details>
   <summary>Dataset Tables ERD</summary>
@@ -31,7 +32,7 @@ click:
 
 Our e-commerce funnel shows strong overall health with a 33% purchase user conversion, though there are areas that can be improved upon to help the business. Nearly 70% of users progressed from view to cart, but cart-to-purchase conversion was only 47%, indicating an opportunity to optimize checkout experience. Total revenue generated exceeded $2 million, with an AOV of $729, showing high contribution per user. Notably, 18% of purchasers were repeat buyers, contributing approximately 32% of total revenue, suggesting retention strategies could be further leveraged. The following sections will explore additional contributing factors and highlight key opportunity areas for improvement.
 
-Below is Overview of Power BI dashboard along with more detailed findings.
+Below is Overview of Power BI dashboard along with more detailed findings/recommendations.
 
 <img width="1169" height="657" alt="Funnel Analysis Dashboard" src="https://github.com/user-attachments/assets/82caef5a-dcf7-4f18-892e-35bff8c30495" />
 
