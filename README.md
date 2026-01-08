@@ -16,7 +16,7 @@ Insights and recommendations are provided on key areas:
 
 Power BI dashboard can be downloaded [here](E-commerce%20Funnel%20Analysis%20Dashboard.pbix)
 
-
+All SQL queries used for analysis can be found [here.](SQL/)
 
 # Dataset Overview
 The Data the analysis was performed on consist of three tables: events, orders, users, which can be seen below:
