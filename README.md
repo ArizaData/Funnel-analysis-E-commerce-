@@ -36,6 +36,7 @@ Our e-commerce funnel shows strong overall health with a 33% purchase user conve
 
 * Conversion drops most sharply at checkout, where only 47% of carted users completed a purchase (3,320 of 6,994), identifying checkout as the primary source of revenue leakage in the funnel.
 
+
 <img width="560" height="247" alt="Screenshot 2026-01-07 204830" src="https://github.com/user-attachments/assets/85f1136e-e0a8-4f7d-9999-2b9ba5653578" />
 
 
@@ -51,11 +52,18 @@ Our e-commerce funnel shows strong overall health with a 33% purchase user conve
 
 * Repeat purchasers contributed approximately 32% of total revenue ($775K), highlighting their disproportionate contribution to overall sales.
 
+
+<img width="510" height="247" alt="Screenshot 2026-01-07 205255" src="https://github.com/user-attachments/assets/f1af6a40-0ee1-4603-9eda-d9a7650b348b" />
+
+
 ### User Sign up cohort analysis:
 
 * Purchase Conversion rates remain consistent across cohorts, with purchase rates ranging from 30% to 36%, indicating stable funnel performance regardless of signup date.
 
 * Total revenue per cohort varies modestly from $85K to $138K, while average order value (AOV) per cohort ranges from $504 to $710, showing users generate predictable revenue irrespective of signup month.
+
+<img width="1861" height="265" alt="Screenshot 2026-01-07 205759" src="https://github.com/user-attachments/assets/e2d3e416-856c-415b-a36f-be18faeabb22" />
+
 
 ### Recommendations:
 
@@ -75,12 +83,3 @@ Based on the insights, the foloowing recommendations have been provided:
 * Event data tracks interactions per product, but not all user journeys are fully captured; some products may only show a single event type (view, cart, or purchase), limiting full funnel sequence analysis.
   
 * The data was artificially generated to mimic real e-commerce behavior, so patterns may not fully reflect actual customer behavior or anomalies found in a live system.
-
-
-
-
-
-  
-
-
-
