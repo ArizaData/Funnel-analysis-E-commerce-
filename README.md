@@ -14,6 +14,9 @@ Insights and recommendations are provided on key areas:
 
 * **User Signup Cohort Analysis:** Analysis of users grouped by signup period to assess how purchase conversion rates and monetization vary across cohorts, helping identify differences in user quality and long-term value over time.
 
+Power BI dashboard can be downloaded here [here.] (E-commerce Funnel Analysis Dashboard.pbix)
+
+
 
 # Dataset Overview
 The Data the analysis was performed on consist of three tables: events, orders, users, which can be seen below:
