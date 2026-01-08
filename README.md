@@ -17,10 +17,10 @@ Insights and recommendations are provided on key areas:
 
 # Dataset Overview
 The Data the analysis was performed on consist of three tables: events, orders, users, which can be seen below:
-
-<img width="722" height="466" alt="Screenshot 2026-01-07 165650" src="https://github.com/user-attachments/assets/6e5cd51d-61d1-49df-8eb3-750f7a822473" />
-
-
+<details>
+  <summary>Dataset Tables ERD</summary>
+  <img src="https://github.com/user-attachments/assets/6e5cd51d-61d1-49df-8eb3-750f7a822473" width="500" alt="Dataset Tables ERD" />
+</details>
 
 # Executive Summary
 ### Overview of findings
